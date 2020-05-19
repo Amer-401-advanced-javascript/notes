@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/Amer-401-advanced-javascript/notes/pull/1)
+- [submission PR](https://github.com/Amer-401-advanced-javascript/notes/pull/2)
 
 ### Setup
 
