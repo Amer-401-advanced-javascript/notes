@@ -7,6 +7,7 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/Amer-401-advanced-javascript/notes/pull/2)
+- [GH]()
 
 ### Setup
 
@@ -26,4 +27,4 @@ npm start
 - Lint Tests: `npm run lint`
 
 #### UML
-![UML](./assets/AddUML.jpg)
+![UML](./assets/DBUMl.jpg)
