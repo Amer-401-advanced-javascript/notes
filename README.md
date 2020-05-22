@@ -1,6 +1,6 @@
-# LAB - Class 02
+# LAB - Class 04
 
-## Project: notes
+## Project: Notsy
 
 ### Author: Amer Majdi
 
